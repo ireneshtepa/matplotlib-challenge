@@ -1,1 +1,4 @@
-
+Based on the data we analyzed there are several important trends:
+1. Capomulin drug seems to be more succesfull combared to other analyzed drugs. This is the only drug taht showed decrease in tumor size in the period of trial. Survival rate is way higher than from other drugs: after 45 days almost 85% of mise survived compared to 45% with other drugs
+2. Ketapril is performing comparable if not worse than Placebo
+3. Metastatic spread during treatment has similar uptrend for all tested drugs with now significant differences
